@@ -1,12 +1,24 @@
-# React + Vite
+# Nakshatra Website 🌟
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A web project created using HTML, CSS, and JavaScript. This project demonstrates frontend development skills and responsive design.
 
-Currently, two official plugins are available:
+## 🚀 Features
+- Modern UI design
+- Responsive layout
+- Interactive elements
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
 
-## Expanding the ESLint configuration
+## 📌 Purpose
+This project was built to practice frontend development and improve web design skills.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🔮 Future Improvements
+- Add backend functionality
+- Improve animations
+- Add more pages
+
+## 👨‍💻 Author
+Vivek Kumar Soni
